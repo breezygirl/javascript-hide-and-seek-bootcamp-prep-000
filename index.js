@@ -1,6 +1,8 @@
-getFirstSelector(selector)
-console.log(parentElement.children[0]);
+getFirstSelector(selector){
 
-document.querySelector('div')
+  
+}
+
+
 
 nestedTarget()
