@@ -5,5 +5,5 @@ return document.querySelector(selector);
 
 nestedTarget(){
   
-  return document.querySelector
+  return document.querySelector()
 }
