@@ -4,6 +4,5 @@ return document.querySelector(selector);
 }
 
 nestedTarget(){
-  
-  return document.querySelector(#nested.target)
+return document.querySelector('#nested.target');
 }
