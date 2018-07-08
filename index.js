@@ -3,6 +3,4 @@ return document.querySelector(selector);
   
 }
 
-
-
 nestedTarget()
