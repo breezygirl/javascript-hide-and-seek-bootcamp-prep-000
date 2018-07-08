@@ -7,7 +7,3 @@ function nestedTarget(){
 return document.querySelector('#nested.target');
 }
 
-increaseRankBy(n){
-  
-  
-}
