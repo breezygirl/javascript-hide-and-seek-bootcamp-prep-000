@@ -1,5 +1,5 @@
 getFirstSelector(selector){
-return document.querySelector('id')
+return document.querySelector(selector)
   
 }
 
